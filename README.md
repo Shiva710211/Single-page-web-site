@@ -74,4 +74,7 @@ Finally, I deployed the website through the github
 Ensuring the website's responsiveness across different devices and screen sizes was a challenge. To overcome this, I used a desktop-first approach, incorporated media queries, proper testing and debugging media querie code proper responsive to the mobile devices,tablets and laptops.it takes lot of time making responsive to the  devices. i also refer the stackoverflow and other websites for making responsive
 
 ## Astro framework
-learn the astro framework from the its documentation and youtube. used astroframework respect to the my website
+ I learn the astro framework from the its documentation and youtube. used astroframework respect to the my website
+
+## Conclusion
+The development of this single-page front-end website was an exciting and challenging process. By following a structured approach, conducting thorough testing, and implementing solutions to overcome challenges, I successfully created a visually appealing and functional website to showcase the features of the Findge platform.
